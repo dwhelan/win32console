@@ -4,3 +4,4 @@ Makefile
 *.obj
 *.o
 pkg
+.idea
